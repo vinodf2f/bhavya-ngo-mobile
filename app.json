@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vinod_f2f.bhavyango"
     },
     "web": {
       "favicon": "./assets/favicon.png"
